@@ -1,6 +1,6 @@
 (Logo placeholder)
 
-Project Lead : Daniel Lee
+Project Lead : Daniel Lee  
 Sub Leads : Heidi Wang, Akhil Kasamsetty
 
 ## Game Pitch
